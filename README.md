@@ -22,7 +22,7 @@ Ecco una lista dei tag HTML di base che userai nel progetto:
 ## Istruzioni per il Compito
 
 ### 1. Creare il file HTML
-Crea un file chiamato `index.html` e inserisci i seguenti elementi di base:
+Crea il file `index.html` e inserisci i seguenti elementi di base:
 
 ```html
 <!DOCTYPE html>
