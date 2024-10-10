@@ -1,11 +1,9 @@
 # Progetto HTML Base
 
-In questo progetto imparerai a creare una semplice pagina web utilizzando i tag HTML di base e a pubblicarla online tramite **GitHub Pages**. Segui le istruzioni passo per passo per completare il compito.
+In questo progetto imparerai a creare una semplice pagina web utilizzando i tag HTML di base. Segui le istruzioni passo per passo per completare il compito.
 
 ## Obiettivi del Progetto
 - Creare una pagina HTML semplice utilizzando i tag di base.
-- Pubblicare la pagina web su GitHub Pages.
-- Imparare a lavorare con Git e GitHub per gestire il tuo codice.
 
 ## Tag HTML di Base
 Ecco una lista dei tag HTML di base che userai nel progetto:
